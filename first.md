@@ -37,3 +37,8 @@ white (index<size) do
     index=index+1
 print(max)
 ```
+
+---
+>HOMINEM AMPLIUS OCULIS, QUAM AURIBUS CREDUNT
+>
+>*Seneca*
